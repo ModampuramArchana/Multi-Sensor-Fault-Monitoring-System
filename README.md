@@ -41,4 +41,4 @@ Terminal: Displays sensor readings, fault count, fault percentage, and average.
 CSV File: multi_sensor_data.csv with all sensor readings.
 Graph: Multi-sensor readings plotted with threshold line.
 ### project output 
-![project output](project output.png)
+![project output](project_output.png)
